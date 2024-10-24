@@ -1,1 +1,1 @@
-# Triton
+# TritonAI
